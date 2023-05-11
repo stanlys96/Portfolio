@@ -17,10 +17,8 @@ export default function RootLayout({
       */}
       <head />
       <body>
-        <ThemeProvider attribute="class">
-          <Navbar />
-          {children}
-        </ThemeProvider>
+        <Navbar />
+        {children}
       </body>
     </html>
   );
