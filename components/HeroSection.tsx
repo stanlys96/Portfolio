@@ -53,6 +53,7 @@ const HeroSection = () => {
             <a
               href="/Stanly-Sukmajaya.pdf"
               target="_blank"
+              rel="noreferrer"
               className="text-neutral-100 flex items-center gap-x-2 cursor-pointer font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
             >
               <span>Download CV</span>
@@ -63,6 +64,7 @@ const HeroSection = () => {
             <a
               href={`mailto:stanlyskwok@gmail.com`}
               target="_blank"
+              rel="noreferrer"
               className="p-3 bg-darkGray rounded-[10px] inline-block text-[20px] cursor-pointer"
             >
               <HiMail />
@@ -70,6 +72,7 @@ const HeroSection = () => {
             <a
               href="https://www.linkedin.com/in/stanly-kwok/"
               target="_blank"
+              rel="noreferrer"
               className="p-3 bg-darkGray rounded-[10px] inline-block text-[20px] cursor-pointer"
             >
               <BsLinkedin />
@@ -77,6 +80,7 @@ const HeroSection = () => {
             <a
               href="https://wa.me/6281357202812"
               target="_blank"
+              rel="noreferrer"
               className="p-3 bg-darkGray rounded-[10px] inline-block text-[20px] cursor-pointer"
             >
               <BsWhatsapp />
@@ -84,6 +88,7 @@ const HeroSection = () => {
             <a
               href="https://github.com/stanlys96"
               target="_blank"
+              rel="noreferrer"
               className="p-3 bg-darkGray rounded-[10px] inline-block text-[20px] cursor-pointer"
             >
               <BsGithub />
