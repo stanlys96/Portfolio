@@ -38,7 +38,7 @@ export const PortfolioBox = ({
   status,
 }: Props) => {
   return (
-    <div className="p-5 rounded-[10px] w-full relative flex flex-col justify-between max-h-full gap-y-1">
+    <div className="p-5 bg-white rounded-[10px] w-full relative flex flex-col justify-between max-h-full gap-y-1">
       <img
         className="w-full object-cover h-44 rounded-[10px] mb-5"
         src={img_url}
