@@ -5,7 +5,7 @@ import ProjectsSection from "@/components/ProjectsSection";
 export default function Home() {
   return (
     <div className="bg-gray">
-      <main className="mx-auto max-w-3xl px-4 sm:px-6 md:max-w-5xl">
+      <main className="mx-auto max-w-3xl px-4 sm:px-6 md:max-w-[1200px]">
         <HeroSection />
         <AboutSection />
         <ExperienceSection />
