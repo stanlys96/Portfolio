@@ -9,7 +9,7 @@ export const ExperienceSection = () => {
     <section id="experience">
       <div
         // ref={scrollToExperience}
-        className="py-10"
+        className="py-10 text-black"
       >
         <p className=" text-center text-[30px] font-bold mb-4">Experience</p>
         <hr className="w-6 h-1 mx-auto my-4 bg-teal-500 border-0 rounded" />
