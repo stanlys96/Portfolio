@@ -54,6 +54,51 @@ export const ExperienceSection = () => {
               <div className="flex justify-between">
                 <div className="flex flex-col gap-y-1">
                   <p className=" font-bold text-base md:text-[20px]">
+                    Astra International Tbk
+                  </p>
+                  <p className=" text-sm md:text-base">Node JS Developer</p>
+                  <p className=" text-sm md:text-base">May 2023 - present</p>
+                  <p className=" text-sm md:text-base">Responsibilities:</p>
+                </div>
+                <div>
+                  <img className="h-[80px]" src="/astra.png" alt="flutter" />
+                </div>
+              </div>
+              <ul className="list-disc px-4">
+                <li className="">
+                  Developing and maintaining scalable and efficient backend
+                  architectures that support the development of high-quality web
+                  applications.
+                </li>
+                <li className="">
+                  Writing clean and maintainable code that is scalable,
+                  efficient, and adheres to established coding standards.
+                </li>
+                <li className="">
+                  Troubleshooting and debugging code to ensure that web
+                  applications work smoothly and efficiently.
+                </li>
+              </ul>
+              <hr className="my-4 border border-darkGray" />
+              <p className=" text-sm md:text-base">Tech Stacks:</p>
+              <ul className="list-disc px-4 grid grid-cols-2 text-[12px] md:text-[16px] text-[12px] md:text-[16px]">
+                <li className="">Node JS</li>
+                <li className="">Nest JS</li>
+                <li className="">Bull MQ</li>
+                <li className="">Docker</li>
+              </ul>
+              <hr className="my-4 border border-darkGray" />
+              <p className=" text-sm md:text-base">Applications:</p>
+              <ul className="list-disc px-4 grid grid-cols-2 text-[12px] md:text-[16px]">
+                <li className="">Orchestrator API</li>
+              </ul>
+            </div>
+          </div>
+          <div className={`bg-white rounded-[10px] p-4`}>
+            <div className="flex flex-col gap-y-1">
+              <div className="flex justify-between">
+                <div className="flex flex-col gap-y-1">
+                  <p className=" font-bold text-base md:text-[20px]">
                     Metabase
                   </p>
                   <p className=" text-sm md:text-base">Full Stack Developer</p>
