@@ -102,7 +102,7 @@ export const ExperienceSection = () => {
                     Metabase
                   </p>
                   <p className=" text-sm md:text-base">Full Stack Developer</p>
-                  <p className=" text-sm md:text-base">Jan 2023 - present</p>
+                  <p className=" text-sm md:text-base">Jan 2023 - Apr 2023</p>
                   <p className=" text-sm md:text-base">Responsibilities:</p>
                 </div>
                 <div>
